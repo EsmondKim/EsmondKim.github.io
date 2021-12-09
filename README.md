@@ -5,7 +5,7 @@ I created this portfolio as a student in the Fall 2020 University of Minnesota F
 When I examine who I am as a person, how I think, how I work, and what I want to contribute to the world, I see myself as a web developer or software developer. A good friend of mine, who is a successful back end programmer, told me "The computer is the game, and writing code that works is winning the game." I love the game, and I am ready to play.
 
 Deployed website:
-[Here is a link to the deployed website](https://esmondkim.github.io/EsmondYKimPortfolio/index.html)
+[Here is a link to the deployed website](https://esmondkim.github.io)
 
 Sceenshots
 ![And a screenshot](/images/portfolio1.jpg)
